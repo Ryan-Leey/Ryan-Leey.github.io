@@ -1,0 +1,12 @@
+/* assets/css/custom-styles.css */
+
+body {
+  cursor: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg"  height="48" width="48" viewBox="0 0 48 48" ><path fill="#F5F5F5" d="M24 1C11.85 1 2 10.85 2 22c0 7.73 4.41 14.36 10.93 17.87.81.4 1.29.57 1.99.57h13.14c.7 0 1.18-.17 1.99-.57C43.59 36.36 48 29.73 48 22 48 10.85 37.15 1 24 1zm0 44.5c-6.35 0-12.62-2.63-17.47-7.39C4.56 34.9 4 30.42 4 26c0-11.05 8.95-20 20-20s20 8.95 20 20c0 4.42-.56 8.9-1.53 13.11-4.85 4.76-11.12 7.39-17.47 7.39z"/><path fill="#4A90E2" d="M24 30l-4.47-7.11a1 1 0 0 1 1.81-.86L24 28.44l2.66-4.31a1 1 0 1 1 1.81.86L24 30z"/></svg>'), auto;
+}
+
+a:hover {
+  color: #368AD2;
+  transition: color 0.5s ease;
+}
+
+/* Add more custom styles here */
